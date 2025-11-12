@@ -36,6 +36,12 @@
    - アニメーション
    - パフォーマンス最適化
 
+7. [AI・モダン開発・業界スラング](./glossary/07-modern-ai-dev.md) 🆕
+   - ChatGPT・Copilot等のAIツール
+   - 開発スラング・略語（プルリク、デプロイ、WIP、LGTM等）
+   - モダンWEB技術（SPA、SSR、API等）
+   - CI/CD・Docker等の開発環境
+
 ## 🎯 対象者
 
 - プログラミング初心者
